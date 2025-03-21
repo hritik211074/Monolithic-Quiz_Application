@@ -2,7 +2,7 @@ package com.example.quiz.controller;
 
 
 import com.example.quiz.model.QuestionWrapper;
-//import com.example.quiz.model.QuizDto;
+
 import com.example.quiz.model.Response;
 import com.example.quiz.service.QuizService;
 import org.springframework.beans.factory.annotation.Autowired;
